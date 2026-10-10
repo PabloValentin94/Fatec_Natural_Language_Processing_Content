@@ -1,0 +1,7 @@
+Passos:
+
+- Obter o vocabulário (Tokens Únicos);
+
+- Ordenar o vocabulário (ASC);
+
+- Gerar a tabela de ocorrência de tokens do vocabulário dentro de cada documento do corpus.
